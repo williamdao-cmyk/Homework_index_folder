@@ -1,2 +1,21 @@
-Hello There.
-This is a document file
+<!DOCTYPE html>
+<html>
+
+<title>Ducks</title>
+<head>
+    
+    <link rel="stylesheet" href="Style_change.css">
+</head>
+
+<body>
+    <h1>
+        Webpage.
+    <h2>
+        The CSS will work on this.
+    </h2>
+
+    <a href="Webpage_&_Css_homework.html">Webpage_&_CSS.</a>
+
+</body>
+
+</html>
