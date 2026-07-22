@@ -18,7 +18,7 @@ a:hover{
 
 
 #Header{
-    font-size: 30;
+    font-size: 30px;
     color: rgba(24, 40, 159, 0.774);
     border-style:double;
     text-align: center;
@@ -35,11 +35,11 @@ a:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#test{
+#test1{
     font-size: large;
     text-align: center;
     background-color: lightblue;
-    border-style: line;
+    border-style: solid;
     border-color: blue;
     border: 2px solid navy;
     width: auto;
@@ -49,7 +49,7 @@ a:hover{
 #text-flying{
     font-size: large;
     border-style: dashed;
-    border: 15px;
+    border: 15px solid chocolate;
     padding: 80px;
     background-color: chocolate;
 }
@@ -60,7 +60,7 @@ a:hover{
     width:70px;
     background-color: antiquewhite;
     border-color: blueviolet;
-    text-size-adjust: calc();
+    font-size: x-small;
     font-size:x-small;
 }
 
@@ -70,7 +70,6 @@ a:hover{
     font-size: larger;
     font-style: italic;
     padding: 50px;
-    align-items: start;
 }
 
 #corner{
