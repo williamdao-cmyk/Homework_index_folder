@@ -1,30 +1,38 @@
-p1{
+body{
+    background-color: purple;
+}
+
+.p1{
     color: orange;
     font-family: sans-serif;
-    font-size: 150%;
+    font-size: 150%
 }
+
+a{
+    color:red;
+}
+
+a:hover{
+    color:purple;
+}
+
 
 #Header{
     font-size: 30;
     color: rgba(24, 40, 159, 0.774);
     border-style:double;
     text-align: center;
+    background-color: black;
 }
 
 #color_violet{
     color: violet;
 }
 
-.blooming_light{
+#blooming_light{
     color: yellow;
     font-size: xx-small;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.important{
-    color:white;
-    font-size: xx-large;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #test{
@@ -44,14 +52,6 @@ p1{
     border: 15px;
     padding: 80px;
     background-color: chocolate;
-}
-
-a{
-    color:red;
-}
-
-a:hover{
-    color:purple;
 }
 
 #thick{
